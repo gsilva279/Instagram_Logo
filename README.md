@@ -45,4 +45,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou envi
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ### Contato
-Para mais informações, entre em contato com josegilvanilson2020@gmail.com(mailto:josegilvanilson2020@gmail.com).
+Para mais informações, entre em contato com josegilvanilson2020@gmail.com.
